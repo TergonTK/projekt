@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../Documents/Тарас учеба/klas"
+		},
+		{
+			"path": "../../Documents/Тарас учеба/проект 2"
+		},
+		{
+			"path": "../../Documents/Тарас учеба/проект 3"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "klas"
+	}
+}
